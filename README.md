@@ -2,7 +2,7 @@
 
 In this project, a simple search engine is implemented using MapReduce framework on Hadoop. 
 
-MapReduce is a programming model for processing and generating big data sets with parallel, distributed computing on cluster. Hadoop is an open source implementation of MapReduce model of programming. The implementation consists of two modules as follows-
+MapReduce is a programming model for processing big data sets with parallel, distributed computing on cluster. Hadoop is an open source implementation of MapReduce model of programming. In this project, we are looking at a simple information retrieval engine using MapReduce, the problem statement consists of two parts.
 
  ###    1. Indexing of Documents -  
  
